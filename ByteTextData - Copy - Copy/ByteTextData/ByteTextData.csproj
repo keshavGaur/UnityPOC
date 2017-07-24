@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B56D8022-4635-46B6-BB44-58719CF87629}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ByteTextData</RootNamespace>
+    <AssemblyName>ByteTextData</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Boo.Lang">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v3.5\Profile\Unity Subset v3.5\Boo.Lang.dll</HintPath>
+    </Reference>
+    <Reference Include="LitJson">
+      <HintPath>..\..\..\..\..\Desktop\GameAA\Library\UnityAssemblies\LitJson.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cairo, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v3.5\Profile\Unity Subset v3.5\Mono.Cairo.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UnityEditor">
+      <HintPath>..\..\..\..\..\Desktop\GameAA\Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\..\..\Desktop\GameAA\Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\..\..\..\Desktop\GameAA\Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VR">
+      <HintPath>..\..\..\..\..\Desktop\GameAA\Library\UnityAssemblies\UnityEngine.VR.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityScript">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v3.5\Profile\Unity Subset v3.5\UnityScript.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityScript.Lang">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v3.5\Profile\Unity Subset v3.5\UnityScript.Lang.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AiBehavior.cs" />
+    <Compile Include="AiColliderTrigger.cs" />
+    <Compile Include="AirStrike.cs" />
+    <Compile Include="AiState.cs" />
+    <Compile Include="AiStateAttack.cs" />
+    <Compile Include="AiStateIdle.cs" />
+    <Compile Include="AiStateMove.cs" />
+    <Compile Include="AiStatePatrol.cs" />
+    <Compile Include="AloneSpeedUp.cs" />
+    <Compile Include="AOE.cs" />
+    <Compile Include="AoeHealer.cs" />
+    <Compile Include="AssetBundleScene.cs" />
+    <Compile Include="attachTower.cs" />
+    <Compile Include="AttackMelee.cs" />
+    <Compile Include="AttackRanged.cs" />
+    <Compile Include="BuildingIcon.cs" />
+    <Compile Include="BuildingPlace.cs" />
+    <Compile Include="BuildingTree.cs" />
+    <Compile Include="BulletArrow.cs" />
+    <Compile Include="BulletBold.cs" />
+    <Compile Include="ButtonHandler.cs" />
+    <Compile Include="CameraControl.cs" />
+    <Compile Include="CapturePoint.cs" />
+    <Compile Include="Clouded.cs" />
+    <Compile Include="CloudOnDamage.cs" />
+    <Compile Include="DamageTaker.cs" />
+    <Compile Include="DataManager.cs" />
+    <Compile Include="DefendersSpawner.cs" />
+    <Compile Include="DefendPoint.cs" />
+    <Compile Include="downloadstuff.cs" />
+    <Compile Include="EventManager.cs" />
+    <Compile Include="hashclass.cs" />
+    <Compile Include="Healer.cs" />
+    <Compile Include="IAttack.cs" />
+    <Compile Include="IBullet.cs" />
+    <Compile Include="LevelChoose.cs" />
+    <Compile Include="LevelManager.cs" />
+    <Compile Include="MainMenu.cs" />
+    <Compile Include="NavAgent.cs" />
+    <Compile Include="Pathway.cs" />
+    <Compile Include="Price.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShowInfo.cs" />
+    <Compile Include="SpawnPoint.cs" />
+    <Compile Include="SpriteSorting.cs" />
+    <Compile Include="Tower.cs" />
+    <Compile Include="UiManager.cs" />
+    <Compile Include="UnitInfo.cs" />
+    <Compile Include="UserActionIcon.cs" />
+    <Compile Include="WavesInfo.cs" />
+    <Compile Include="WavesInfoEditor.cs" />
+    <Compile Include="WavesTimer.cs" />
+    <Compile Include="Waypoint.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,66 @@
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\ByteTextData.dll
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\ByteTextData.pdb
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\UnityEditor.dll
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\UnityEngine.dll
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\UnityEngine.UI.dll
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\UnityEngine.VR.dll
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\LitJson.xml
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\UnityEditor.xml
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\UnityEngine.xml
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\UnityEngine.UI.xml
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\UnityEngine.VR.xml
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\obj\Debug\ByteTextData.csprojResolveAssemblyReference.cache
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\obj\Debug\ByteTextData.dll
+c:\users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\obj\Debug\ByteTextData.pdb
+C:\Users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\Boo.Lang.dll
+C:\Users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\Mono.Cairo.dll
+C:\Users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\UnityScript.dll
+C:\Users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\UnityScript.Lang.dll
+C:\Users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\tft\documents\visual studio 2015\Projects\ByteTextData\ByteTextData\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\ByteTextData.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\ByteTextData.pdb
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\Boo.Lang.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\Mono.Cairo.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\UnityEditor.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\UnityEngine.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\UnityEngine.UI.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\UnityEngine.VR.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\UnityScript.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\UnityScript.Lang.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\LitJson.xml
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\UnityEditor.xml
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\UnityEngine.xml
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\UnityEngine.UI.xml
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\bin\Debug\UnityEngine.VR.xml
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\obj\Debug\ByteTextData.csprojResolveAssemblyReference.cache
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\obj\Debug\ByteTextData.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy\ByteTextData\obj\Debug\ByteTextData.pdb
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\obj\Debug\ByteTextData.csprojResolveAssemblyReference.cache
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\obj\Debug\ByteTextData.pdb
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\ByteTextData.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\ByteTextData.pdb
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\Boo.Lang.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\Mono.Cairo.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\UnityEditor.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\UnityEngine.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\UnityEngine.UI.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\UnityEngine.VR.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\UnityScript.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\UnityScript.Lang.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\LitJson.xml
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\UnityEditor.xml
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\UnityEngine.xml
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\UnityEngine.UI.xml
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\bin\Debug\UnityEngine.VR.xml
+C:\Users\tft\Documents\Visual Studio 2015\Projects\ByteTextData - Copy - Copy\ByteTextData\obj\Debug\ByteTextData.dll
