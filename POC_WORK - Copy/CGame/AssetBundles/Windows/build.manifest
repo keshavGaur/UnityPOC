@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2972116743
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85c5101b26636933082622951ecd4bec
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c77e6093bc5dcc67f6992569c8e23b10
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59e010200235a1c4aa494cf1e31b37da, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9783ecd21068324c9c682fa83a66868, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Prefabs/Towers/Level 0/BuildingTree.prefab
+Dependencies:
+- C:/Users/tft/Desktop/CGame/AssetBundles/Windows/prefabs
+- C:/Users/tft/Desktop/CGame/AssetBundles/Windows/sprites
+- C:/Users/tft/Desktop/CGame/AssetBundles/Windows/fonts

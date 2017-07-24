@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cGame POC", "cGame POC.csproj", "{FA691F03-4420-E5B2-3F10-E19DD7D40861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cGame POC.Editor", "cGame POC.Editor.csproj", "{FFEDFED9-135A-0250-82DF-589763C2725F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA691F03-4420-E5B2-3F10-E19DD7D40861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA691F03-4420-E5B2-3F10-E19DD7D40861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA691F03-4420-E5B2-3F10-E19DD7D40861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA691F03-4420-E5B2-3F10-E19DD7D40861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFEDFED9-135A-0250-82DF-589763C2725F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEDFED9-135A-0250-82DF-589763C2725F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEDFED9-135A-0250-82DF-589763C2725F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEDFED9-135A-0250-82DF-589763C2725F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1844119580
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35e19c8b0badce012e0e3cb5adf5976b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fca882a8c5f6ea843c9d56e58fad76fe
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Sprites/Towers/priceImage.jpg
+- Assets/TD2D/Fonts/Irmologion.ttf
+- Assets/TD2D/Sprites/Towers/image.jpg
+- Assets/TD2D/Sprites/Towers/magicImage.jpg
+- Assets/TD2D/Sprites/Towers/bowmanImage.jpg
+- Assets/TD2D/Sprites/Towers/barracksImage.jpg
+- Assets/TD2D/Sprites/Towers/mortarImage.jpg
+- Assets/TD2D/Sprites/Towers/ballistaImage.jpg
+Dependencies: []

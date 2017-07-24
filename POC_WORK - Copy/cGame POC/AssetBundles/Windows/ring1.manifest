@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3619162239
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b3ff0a5c07f9c7bbf121ef7118bc0f9d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Sprites/Towers/image.jpg
+- Assets/TD2D/Sprites/Towers/magicImage.jpg
+- Assets/TD2D/Sprites/Towers/bowmanImage.jpg
+- Assets/TD2D/Sprites/Towers/barracksImage.jpg
+- Assets/TD2D/Sprites/Towers/mortarImage.jpg
+- Assets/TD2D/Sprites/Towers/ballistaImage.jpg
+Dependencies: []

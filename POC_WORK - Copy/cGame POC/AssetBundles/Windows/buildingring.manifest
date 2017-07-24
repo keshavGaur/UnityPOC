@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4055703984
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 96ca1570b69aa7d6c9150d79478ca4f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Sprites/Towers/Building_ring_01.png
+Dependencies: []

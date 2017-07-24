@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2533332488
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1de664fc18132f0497c2600a87698e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 50458103ea42301860f6452b0958a2c6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3675e47ba0f1ba141b36b8d37c0cf38a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Prefabs/UserActions/Actions/FireStorm.prefab
+- Assets/TD2D/Prefabs/UserActions/Actions/StarBurst.prefab
+Dependencies: []

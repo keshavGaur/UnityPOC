@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 649894554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 683b907f7e72be82da5beb4d0463d4e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/TD2D/Scenes/LevelUI.unity
+- Assets/TD2D/Scenes/Level3.unity
+- Assets/TD2D/Scenes/Level2.unity
+- Assets/TD2D/Scenes/MainMenu.unity
+- Assets/TD2D/Scenes/LevelChoose.unity
+- Assets/TD2D/Scenes/Level1.unity
+Dependencies:
+- C:/Users/tft/Desktop/POC_WORK/CGame/AssetBundles/Android/prefabs
+- C:/Users/tft/Desktop/POC_WORK/CGame/AssetBundles/Android/sprites
+- C:/Users/tft/Desktop/POC_WORK/CGame/AssetBundles/Android/fonts
+- C:/Users/tft/Desktop/POC_WORK/CGame/AssetBundles/Android/buildit
+- C:/Users/tft/Desktop/POC_WORK/CGame/AssetBundles/Android/menuprefabs
+- C:/Users/tft/Desktop/POC_WORK/CGame/AssetBundles/Android/levelmenulevelprefabs

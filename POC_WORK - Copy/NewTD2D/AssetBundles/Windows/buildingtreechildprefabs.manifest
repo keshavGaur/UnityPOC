@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 3089605219
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fcf99281d94cbece5c9a93ba15e8ba8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 803da820eefe471bcf2b5d46043df0a9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59e010200235a1c4aa494cf1e31b37da, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f194651295b6c144f981e7ad0c9950ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc7cb932697dda74eb8da74f02b9cfc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22002ba25fbc4314891a2b84b886d82d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd4656446b8e5bb4dbb41437da241407, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05d13436a00222b40bb6bb28915d105a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ef07517a4df1484fabcdf898d753516, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb5f9629e8deed14d8fd8c6dded4c211, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a6eebd9d69ab0a4e8876830ccc0efda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f79b7fa0ff0d17489fee356368303a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 773ecebc9d0599a4fa0354cc7694f173, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9783ecd21068324c9c682fa83a66868, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3fa4067e93efe4042bfb8ba5aece458c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4300ea6fc3c7c3d4f99d24f0c04fe8f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb8ab59f10f47f0489867b23922fe06a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Prefabs/Towers/Level 1/Ballista/BuildingTreeBallista.prefab
+- Assets/TD2D/Prefabs/Towers/Level 1/Barracks/BuildingTreeBarracks.prefab
+- Assets/TD2D/Prefabs/Towers/Level 1/Magic/BuildingTreeMagic.prefab
+- Assets/TD2D/Prefabs/Towers/Level 1/Mortar/BuildingTreeMortar.prefab
+- Assets/TD2D/Prefabs/Towers/Level 1/Bowman/BuildingTreeBowman.prefab
+Dependencies:
+- C:/Users/tft/Desktop/NewTD2D/AssetBundles/Windows/arrowsforall
+- C:/Users/tft/Desktop/NewTD2D/AssetBundles/Windows/towermakeoverprefabs

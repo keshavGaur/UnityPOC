@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 1307461014
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d70d323f78c24a9b14d5a1c8f87ce05b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Sprites/FX/StarBurst_02.png
+- Assets/TD2D/Sprites/Towers/Building_ring_01.png
+- Assets/TD2D/Sprites/Enemies/Monsters_.png
+- Assets/TD2D/Sprites/Enemies/Monster_shaman.png
+- Assets/TD2D/Sprites/Gizmos/SpawnPointGizmo.png
+- Assets/TD2D/Sprites/FX/Explosion5.png
+- Assets/TD2D/Sprites/FX/StarBurst_06.png
+- Assets/TD2D/Sprites/FX/StarBurst_03.png
+- Assets/TD2D/Sprites/Enemies/Healthbar.png
+- Assets/TD2D/Sprites/FX/Dust2.png
+- Assets/TD2D/Sprites/FX/StarBurst_07.png
+- Assets/TD2D/Sprites/FX/Smoke_02.png
+- Assets/TD2D/Sprites/FX/Explosion1.png
+- Assets/TD2D/Sprites/FX/Explosion3.png
+- Assets/TD2D/Sprites/FX/StarBurst_04.png
+- Assets/TD2D/Sprites/Towers/Towers.png
+- Assets/TD2D/Sprites/FX/MeteorShower_01.png
+- Assets/TD2D/Sprites/ForOutput/SplashScreenImage.png
+- Assets/TD2D/Sprites/FX/Explosion4.png
+- Assets/TD2D/Sprites/Gizmos/CapturePointGizmo.png
+- Assets/TD2D/Sprites/ForOutput/TD2D_icon_v1.png
+- Assets/TD2D/Sprites/Defenders/Guard_3.png
+- Assets/TD2D/Sprites/Maps/MAP_01.png
+- Assets/TD2D/Sprites/FX/StarBurst_01.png
+- Assets/TD2D/Sprites/ForOutput/TD2D_icon_v4.png
+- Assets/TD2D/Sprites/Enemies/W_Saman_95px.png
+- Assets/TD2D/Sprites/Towers/attack_range.png
+- Assets/TD2D/Sprites/Towers/BuildingPlace.png
+- Assets/TD2D/Sprites/FX/Dust1.png
+- Assets/TD2D/Sprites/FX/MeteorShower_03.png
+- Assets/TD2D/Sprites/Defenders/Guardians_.png
+- Assets/TD2D/Sprites/Maps/MAP_02.png
+- Assets/TD2D/Sprites/Gizmos/WayPointGizmo.png
+- Assets/TD2D/Sprites/Bullets/Bullets.png
+- Assets/TD2D/Sprites/Maps/Enemy_point_&_Defeat_point_2v.png
+- Assets/TD2D/Sprites/FX/Explosion2.png
+- Assets/TD2D/Sprites/Enemies/S_Tank_0.png
+- Assets/TD2D/Sprites/Maps/MAP_03.png
+- Assets/TD2D/Sprites/FX/Smoke_01.png
+- Assets/TD2D/Sprites/FX/HealEffect.png
+- Assets/TD2D/Sprites/FX/MeteorShower_02.png
+- Assets/TD2D/Sprites/ForOutput/TD2D_icon_v2.png
+- Assets/TD2D/Sprites/Gizmos/DefendPointGizmo.png
+Dependencies: []

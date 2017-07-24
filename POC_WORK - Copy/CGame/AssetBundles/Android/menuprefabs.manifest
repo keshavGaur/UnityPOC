@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3602905000
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f528e5868c921415c8d2c9aab06a8e70
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Sprites/GUI/Menu/Banners.png
+- Assets/TD2D/Sprites/GUI/Menu/Cooldown.png
+- Assets/TD2D/Sprites/GUI/Menu/Paused_05.png
+- Assets/TD2D/Sprites/GUI/Menu/life_0.png
+- Assets/TD2D/Sprites/GUI/Menu/04_menu_hoose Level.png
+- Assets/TD2D/Sprites/GUI/Menu/07_menu_defeat.png
+- Assets/TD2D/Sprites/GUI/Menu/Timer.png
+- Assets/TD2D/Sprites/GUI/Menu/08_menu_Stage Complited.png
+- Assets/TD2D/Sprites/GUI/Menu/01_menu_Main_14_04.png
+- Assets/TD2D/Sprites/GUI/Menu/UnitIcon.png
+- Assets/TD2D/Sprites/GUI/Menu/06_game_Interface.png
+- Assets/TD2D/Sprites/GUI/Menu/01_menu_Main.png
+Dependencies: []

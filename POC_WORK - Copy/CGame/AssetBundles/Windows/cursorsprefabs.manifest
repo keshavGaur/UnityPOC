@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2336012228
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed6e30b32839977bd725cc9abb2a7d6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c1642440719609290a7e09a50a7286f4
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Sprites/GUI/Cursors/Cursor.png
+Dependencies: []

@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 859405049
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: game-scene
+      Dependencies:
+        Dependency_0: build
+        Dependency_1: starandfireprefabs
+        Dependency_2: levelchooselevelprefabs
+        Dependency_3: levelchoosetoggles
+    Info_1:
+      Name: defend
+      Dependencies: {}
+    Info_2:
+      Name: build
+      Dependencies:
+        Dependency_0: defend
+    Info_3:
+      Name: towerprefab
+      Dependencies: {}
+    Info_4:
+      Name: cooldown
+      Dependencies: {}
+    Info_5:
+      Name: textassets
+      Dependencies: {}
+    Info_6:
+      Name: starandfireprefabs
+      Dependencies: {}
+    Info_7:
+      Name: levelchooselevelprefabs
+      Dependencies: {}
+    Info_8:
+      Name: levelchoosetoggles
+      Dependencies: {}

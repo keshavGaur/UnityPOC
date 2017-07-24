@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3497451734
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bea44c0526b6da2e22295d64a5bd12fc
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Sprites/GUI/LevelIcons/icon_lvl.png
+- Assets/TD2D/Sprites/GUI/LevelIcons/icon_lvl 3.png
+Dependencies: []

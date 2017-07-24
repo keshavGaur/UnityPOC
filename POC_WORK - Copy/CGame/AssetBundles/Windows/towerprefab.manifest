@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 4257622539
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 98a96cb8df51d198aaa3811f629c07df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb34147def14a4107da18d1fcf5f3a37
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f194651295b6c144f981e7ad0c9950ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc7cb932697dda74eb8da74f02b9cfc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd4656446b8e5bb4dbb41437da241407, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ef07517a4df1484fabcdf898d753516, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb5f9629e8deed14d8fd8c6dded4c211, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a6eebd9d69ab0a4e8876830ccc0efda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f79b7fa0ff0d17489fee356368303a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 773ecebc9d0599a4fa0354cc7694f173, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3fa4067e93efe4042bfb8ba5aece458c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4300ea6fc3c7c3d4f99d24f0c04fe8f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Prefabs/Towers/Level 1/Magic/MagicL1.prefab
+- Assets/TD2D/Prefabs/Towers/Level 1/Mortar/MortarL1.prefab
+- Assets/TD2D/Prefabs/Towers/Level 1/Barracks/BarracksL1.prefab
+- Assets/TD2D/Prefabs/Towers/Level 1/Bowman/BowmanL1.prefab
+- Assets/TD2D/Prefabs/Towers/Level 1/Ballista/BallistaL1.prefab
+Dependencies:
+- C:/Users/tft/Desktop/CGame/AssetBundles/Windows/prefabs
+- C:/Users/tft/Desktop/CGame/AssetBundles/Windows/sprites
+- C:/Users/tft/Desktop/CGame/AssetBundles/Windows/buildbowman
+- C:/Users/tft/Desktop/CGame/AssetBundles/Windows/menuprefabs
+- C:/Users/tft/Desktop/CGame/AssetBundles/Windows/buildmagic
+- C:/Users/tft/Desktop/CGame/AssetBundles/Windows/buildbarracks
+- C:/Users/tft/Desktop/CGame/AssetBundles/Windows/buildballista
+- C:/Users/tft/Desktop/CGame/AssetBundles/Windows/buildmortar

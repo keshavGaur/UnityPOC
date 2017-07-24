@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2090435169
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 138bb67d1e8e916e628049d584df2cca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4774d6da9b606debf00b5a5d61c4487c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Sprites/GUI/Menu/Cooldown.png
+Dependencies: []

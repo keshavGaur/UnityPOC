@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+CRC: 2442884110
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70ebf02dfc7aec4380c18927d9122778
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 99b6764223a45139f08c1d2cdb007916
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc7cb932697dda74eb8da74f02b9cfc8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22002ba25fbc4314891a2b84b886d82d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd4656446b8e5bb4dbb41437da241407, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05d13436a00222b40bb6bb28915d105a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb5f9629e8deed14d8fd8c6dded4c211, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a6eebd9d69ab0a4e8876830ccc0efda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f79b7fa0ff0d17489fee356368303a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 773ecebc9d0599a4fa0354cc7694f173, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53e214cdaa3ef074cb8d11b0cc4dbafd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb8ab59f10f47f0489867b23922fe06a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Prefabs/Defenders/Swordsman/Swordsman.prefab
+Dependencies: []

@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 757660398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0e3061308181778122840f28c388d32a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1a601edb11178b19b86b950160dc3139
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c236161c0b762041bc85325bfa4deb7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 773ecebc9d0599a4fa0354cc7694f173, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53e214cdaa3ef074cb8d11b0cc4dbafd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4300ea6fc3c7c3d4f99d24f0c04fe8f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Prefabs/Enemies/Units/Dog/Dog.prefab
+- Assets/TD2D/Prefabs/Enemies/Units/Goblin/Goblin.prefab
+- Assets/TD2D/Prefabs/Enemies/Units/Ogre/Ogre.prefab
+Dependencies: []

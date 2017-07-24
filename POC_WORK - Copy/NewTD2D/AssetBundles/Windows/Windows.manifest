@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3830580720
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: buildingtreechildprefabs
+      Dependencies:
+        Dependency_0: arrowsforall
+        Dependency_1: towermakeoverprefabs
+    Info_1:
+      Name: enemyunits
+      Dependencies:
+        Dependency_0: arrowsforall
+    Info_2:
+      Name: arrowsforall
+      Dependencies:
+        Dependency_0: explosionall
+    Info_3:
+      Name: explosionall
+      Dependencies: {}
+    Info_4:
+      Name: towermakeoverprefabs
+      Dependencies: {}
+    Info_5:
+      Name: defendpointasset
+      Dependencies: {}
+    Info_6:
+      Name: defenderprefab
+      Dependencies: {}

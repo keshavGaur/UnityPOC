@@ -1,0 +1,98 @@
+ManifestFileVersion: 0
+CRC: 4146149563
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabs
+      Dependencies:
+        Dependency_0: sprites
+        Dependency_1: fonts
+        Dependency_2: newbuild
+        Dependency_3: menuprefabs
+        Dependency_4: actioniconprefabs
+        Dependency_5: leveliconsprefabs
+    Info_1:
+      Name: sprites
+      Dependencies: {}
+    Info_2:
+      Name: fonts
+      Dependencies: {}
+    Info_3:
+      Name: game-scene
+      Dependencies:
+        Dependency_0: prefabs
+        Dependency_1: sprites
+        Dependency_2: fonts
+        Dependency_3: buildit
+        Dependency_4: menuprefabs
+        Dependency_5: levelmenulevelprefabs
+    Info_4:
+      Name: buildit
+      Dependencies:
+        Dependency_0: prefabs
+        Dependency_1: sprites
+        Dependency_2: newbuild
+    Info_5:
+      Name: newbuild
+      Dependencies:
+        Dependency_0: sprites
+        Dependency_1: fonts
+        Dependency_2: towerprefab
+    Info_6:
+      Name: towerprefab
+      Dependencies:
+        Dependency_0: prefabs
+        Dependency_1: sprites
+        Dependency_2: buildbowman
+        Dependency_3: menuprefabs
+        Dependency_4: buildmagic
+        Dependency_5: buildbarracks
+        Dependency_6: buildballista
+        Dependency_7: buildmortar
+    Info_7:
+      Name: buildbowman
+      Dependencies:
+        Dependency_0: prefabs
+        Dependency_1: sprites
+        Dependency_2: fonts
+    Info_8:
+      Name: menuprefabs
+      Dependencies: {}
+    Info_9:
+      Name: actioniconprefabs
+      Dependencies: {}
+    Info_10:
+      Name: cursorsprefabs
+      Dependencies: {}
+    Info_11:
+      Name: leveliconsprefabs
+      Dependencies: {}
+    Info_12:
+      Name: buildmagic
+      Dependencies:
+        Dependency_0: prefabs
+        Dependency_1: sprites
+        Dependency_2: fonts
+    Info_13:
+      Name: buildbarracks
+      Dependencies:
+        Dependency_0: prefabs
+        Dependency_1: sprites
+        Dependency_2: fonts
+    Info_14:
+      Name: buildballista
+      Dependencies:
+        Dependency_0: prefabs
+        Dependency_1: sprites
+        Dependency_2: fonts
+    Info_15:
+      Name: buildmortar
+      Dependencies:
+        Dependency_0: prefabs
+        Dependency_1: sprites
+        Dependency_2: fonts
+    Info_16:
+      Name: levelmenulevelprefabs
+      Dependencies:
+        Dependency_0: fonts
+        Dependency_1: leveliconsprefabs

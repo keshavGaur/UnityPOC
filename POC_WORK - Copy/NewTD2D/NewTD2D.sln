@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTD2D", "NewTD2D.csproj", "{CBA0A5B3-4B90-C04D-F7D8-2B39DC74A099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewTD2D.Editor", "NewTD2D.Editor.csproj", "{1CCA5B05-3131-05FE-A870-B42F86F43264}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA0A5B3-4B90-C04D-F7D8-2B39DC74A099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA0A5B3-4B90-C04D-F7D8-2B39DC74A099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA0A5B3-4B90-C04D-F7D8-2B39DC74A099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA0A5B3-4B90-C04D-F7D8-2B39DC74A099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCA5B05-3131-05FE-A870-B42F86F43264}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCA5B05-3131-05FE-A870-B42F86F43264}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCA5B05-3131-05FE-A870-B42F86F43264}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCA5B05-3131-05FE-A870-B42F86F43264}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

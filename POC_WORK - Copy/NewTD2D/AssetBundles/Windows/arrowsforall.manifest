@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 1789679068
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c19b01e03dfaf86a6be03400d8a9839c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e255612a338122a159d02990a11d7fee
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c236161c0b762041bc85325bfa4deb7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6409826763f57ee42872e560f04e3f09, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25c6adde78672fd459f0d00de2f6e14d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Prefabs/Bullets/Bullet.prefab
+- Assets/TD2D/Prefabs/Bullets/MagicMissile.prefab
+- Assets/TD2D/Prefabs/Bullets/Dart.prefab
+- Assets/TD2D/Prefabs/Bullets/BombEnemy.prefab
+- Assets/TD2D/Prefabs/Bullets/Bold.prefab
+- Assets/TD2D/Prefabs/Bullets/BombAlly.prefab
+- Assets/TD2D/Prefabs/Bullets/Arrow.prefab
+Dependencies:
+- C:/Users/tft/Desktop/NewTD2D/AssetBundles/Windows/explosionall

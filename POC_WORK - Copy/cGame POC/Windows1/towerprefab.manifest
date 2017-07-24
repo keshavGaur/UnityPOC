@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 4172952889
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1dab8669216be0b2aca2f7a9fd356004
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 474648f7ca9800f8d1293d446bd63014
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c236161c0b762041bc85325bfa4deb7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6409826763f57ee42872e560f04e3f09, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 773ecebc9d0599a4fa0354cc7694f173, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25c6adde78672fd459f0d00de2f6e14d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4300ea6fc3c7c3d4f99d24f0c04fe8f9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Prefabs/Towers/Level 1/Magic/MagicL1.prefab
+- Assets/TD2D/Prefabs/Towers/Level 1/Mortar/MortarL1.prefab
+- Assets/TD2D/Prefabs/Towers/Level 1/Barracks/BarracksL1.prefab
+- Assets/TD2D/Prefabs/Towers/Level 1/Bowman/BowmanL1.prefab
+- Assets/TD2D/Prefabs/Towers/Level 1/Ballista/BallistaL1.prefab
+Dependencies: []

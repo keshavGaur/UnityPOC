@@ -1,0 +1,231 @@
+ManifestFileVersion: 0
+CRC: 195290315
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: daa1640815a64b45a7aae64929eda0a0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d0d5e40a432fca9bc4141c3b214fcaba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59e010200235a1c4aa494cf1e31b37da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c236161c0b762041bc85325bfa4deb7, type: 3}
+- Class: 114
+  Script: {fileID: -1254083943, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f194651295b6c144f981e7ad0c9950ba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc7cb932697dda74eb8da74f02b9cfc8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 22002ba25fbc4314891a2b84b886d82d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5322f163dde46db48846d0b4b7cd28c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd4656446b8e5bb4dbb41437da241407, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c37f07a4d75485042922ee03fd428238, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bac92e0595614734bbad8aefd00329d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce3f3b85e0be345479f44554c8c712da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 849ed616b0f324e46b662b5e4c6b9f0c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05d13436a00222b40bb6bb28915d105a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ef07517a4df1484fabcdf898d753516, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b925a647155229842af3b3f17b3987fa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6409826763f57ee42872e560f04e3f09, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b1cda58767bb01f41b423f83aa00a87b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 272b21b79745b214fbedeb5e00ead86f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb5f9629e8deed14d8fd8c6dded4c211, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a6eebd9d69ab0a4e8876830ccc0efda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 80fd9ed9b8387d4438b3e2fecb121929, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 73a9417aab1fd77459c83f1c57aa6af3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9f79b7fa0ff0d17489fee356368303a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3675e47ba0f1ba141b36b8d37c0cf38a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 773ecebc9d0599a4fa0354cc7694f173, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 53e214cdaa3ef074cb8d11b0cc4dbafd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9783ecd21068324c9c682fa83a66868, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3fa4067e93efe4042bfb8ba5aece458c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 25c6adde78672fd459f0d00de2f6e14d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3817f54fd4a5d134bb285ad159d32d46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4300ea6fc3c7c3d4f99d24f0c04fe8f9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb8ab59f10f47f0489867b23922fe06a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/TD2D/Prefabs/Towers/Level 2/Barracks/BuildingTree.prefab
+- Assets/TD2D/Prefabs/Enemies/Bosses/Voodoo/Animation/Voodoo.controller
+- Assets/TD2D/Prefabs/Enemies/Bosses/Voodoo/Animation/Heal.anim
+- Assets/TD2D/Prefabs/FX/Materials/Explosion5.mat
+- Assets/TD2D/Prefabs/Enemies/Units/Orc/Animation/Move.anim
+- Assets/TD2D/Prefabs/Defenders/Gunman/Animation/AttackRanged.anim
+- Assets/TD2D/Prefabs/Defenders/Spearman/Spearman.prefab
+- Assets/TD2D/Prefabs/Defenders/Gunman/Gunman.prefab
+- Assets/TD2D/Prefabs/FX/ExhaustFX.prefab
+- Assets/TD2D/Prefabs/Bullets/Bullet.prefab
+- Assets/TD2D/Prefabs/Enemies/Bosses/STank/Animation/AttackRanged.anim
+- Assets/TD2D/Prefabs/Enemies/Units/Ogre/Ogre.prefab
+- Assets/TD2D/Prefabs/Bullets/MagicMissile.prefab
+- Assets/TD2D/Prefabs/Enemies/Bosses/Voodoo/Voodoo.prefab
+- Assets/TD2D/Prefabs/Towers/Level 3/Barracks/BarracksL3.prefab
+- Assets/TD2D/Prefabs/Pathway/CapturePoint.prefab
+- Assets/TD2D/Prefabs/Enemies/Bosses/Voodoo/Animation/Move.anim
+- Assets/TD2D/Prefabs/Towers/Level 2/Barracks/BarracksL2.prefab
+- Assets/TD2D/Prefabs/Enemies/Units/Dog/Animation/Dog.controller
+- Assets/TD2D/Prefabs/FX/Materials/Explosion1.mat
+- Assets/TD2D/Prefabs/Enemies/Bosses/STank/Animation/Move.anim
+- Assets/TD2D/Prefabs/FX/Materials/StarBurst3.mat
+- Assets/TD2D/Prefabs/LevelDescriptions/Level2.prefab
+- Assets/TD2D/Prefabs/Enemies/Units/Orc/Animation/Orc.controller
+- Assets/TD2D/Prefabs/Bullets/Dart.prefab
+- Assets/TD2D/Prefabs/Towers/Level 2/Bowman/BuildingTree.prefab
+- Assets/TD2D/Prefabs/Enemies/Bosses/STank/STank.prefab
+- Assets/TD2D/Prefabs/Defenders/Gunman/Animation/Idle.anim
+- Assets/TD2D/Prefabs/Enemies/Units/Shaman/Animation/Move.anim
+- Assets/TD2D/Prefabs/Enemies/Bosses/STank/Animation/STank.controller
+- Assets/TD2D/Prefabs/Enemies/Units/Goblin/Animation/Goblin.controller
+- Assets/TD2D/Prefabs/FX/StarBurstFX.prefab
+- Assets/TD2D/Prefabs/FX/Materials/StarBurst1.mat
+- Assets/TD2D/Prefabs/Enemies/Units/Goblin/Animation/AttackRanged.anim
+- Assets/TD2D/Prefabs/FX/Materials/Smoke1.mat
+- Assets/TD2D/Prefabs/Towers/Level 3/Mortar/MortarL3.prefab
+- Assets/TD2D/Prefabs/Towers/Level 2/Ballista/BuildingTree.prefab
+- Assets/TD2D/Prefabs/Towers/Level 0/TowerL0.prefab
+- Assets/TD2D/Prefabs/Defenders/Swordsman/Animation/Swordsman.controller
+- Assets/TD2D/Prefabs/LevelDescriptions/Toggles/InactiveToggle.prefab
+- Assets/TD2D/Prefabs/Enemies/Bosses/STank/Animation/Idle.anim
+- Assets/TD2D/Prefabs/FX/Materials/Explosion6.mat
+- Assets/TD2D/Prefabs/Defenders/Spearman/Animation/Spearman.controller
+- Assets/TD2D/Prefabs/Enemies/Units/Shaman/Animation/Shaman.controller
+- Assets/TD2D/Prefabs/Bullets/BombEnemy.prefab
+- Assets/TD2D/Prefabs/UnitInfo.prefab
+- Assets/TD2D/Prefabs/Towers/Level 3/Bowman/BowmanL3.prefab
+- Assets/TD2D/Prefabs/Defenders/Swordsman/Animation/AttackMelee.anim
+- Assets/TD2D/Prefabs/UserActions/Actions/FireStorm.prefab
+- Assets/TD2D/Prefabs/Enemies/Units/Ogre/Animation/Move.anim
+- Assets/TD2D/Prefabs/Towers/Level 3/Magic/MagicL3.prefab
+- Assets/TD2D/Prefabs/Defenders/Gunman/Animation/Gunman.controller
+- Assets/TD2D/Prefabs/UserActions/Actions/StarBurst.prefab
+- Assets/TD2D/Prefabs/Towers/Level 2/Magic/BuildingTree.prefab
+- Assets/TD2D/Prefabs/Defenders/Swordsman/Swordsman.prefab
+- Assets/TD2D/Prefabs/FX/Materials/Dust2.mat
+- Assets/TD2D/Prefabs/FX/Materials/Dust1.mat
+- Assets/TD2D/Prefabs/LevelDescriptions/Toggles/ActiveToggle.prefab
+- Assets/TD2D/Prefabs/Towers/Level 2/Ballista/BallistaL2.prefab
+- Assets/TD2D/Prefabs/Enemies/Units/Ogre/Animation/AttackMelee.anim
+- Assets/TD2D/Prefabs/Pathway/Pathway.prefab
+- Assets/TD2D/Prefabs/Towers/Level 2/Bowman/BowmanL2.prefab
+- Assets/TD2D/Prefabs/FX/HealFX.prefab
+- Assets/TD2D/Prefabs/Towers/Level 2/Mortar/MortarL2.prefab
+- Assets/TD2D/Prefabs/UserActions/Icons/FireStorm.prefab
+- Assets/TD2D/Prefabs/Defenders/Spearman/Animation/Idle.anim
+- Assets/TD2D/Prefabs/Bullets/Bold.prefab
+- Assets/TD2D/Prefabs/UserActions/Icons/StarBurst.prefab
+- Assets/TD2D/Prefabs/FX/Materials/StarBurst4.mat
+- Assets/TD2D/Prefabs/FX/Materials/StarBurst2.mat
+- Assets/TD2D/Prefabs/Defenders/Gunman/Animation/Move.anim
+- Assets/TD2D/Prefabs/Defenders/Spearman/Animation/Move.anim
+- Assets/TD2D/Prefabs/Bullets/BombAlly.prefab
+- Assets/TD2D/Prefabs/Enemies/Units/Dog/Dog.prefab
+- Assets/TD2D/Prefabs/Enemies/Units/Goblin/Goblin.prefab
+- Assets/TD2D/Prefabs/FX/Materials/Explosion4.mat
+- Assets/TD2D/Prefabs/Enemies/Units/Goblin/Animation/Move.anim
+- Assets/TD2D/Prefabs/Defenders/Swordsman/Animation/Idle.anim
+- Assets/TD2D/Prefabs/FX/Materials/Heal.mat
+- Assets/TD2D/Prefabs/Defenders/Swordsman/Animation/Move.anim
+- Assets/TD2D/Prefabs/Bullets/Arrow.prefab
+- Assets/TD2D/Prefabs/Enemies/Units/Orc/Animation/AttackMelee.anim
+- Assets/TD2D/Prefabs/Enemies/Units/Ogre/Animation/Ogre.controller
+- Assets/TD2D/Prefabs/FX/Materials/Explosion2.mat
+- Assets/TD2D/Prefabs/FX/DustFX.prefab
+- Assets/TD2D/Prefabs/Towers/Level 2/Mortar/BuildingTree.prefab
+- Assets/TD2D/Prefabs/FX/Materials/Meteorite.mat
+- Assets/TD2D/Prefabs/FX/CloudFX.prefab
+- Assets/TD2D/Prefabs/Enemies/Units/Dog/Animation/Move.anim
+- Assets/TD2D/Prefabs/Enemies/Units/Orc/Orc.prefab
+- Assets/TD2D/Prefabs/FX/Materials/Explosion3.mat
+- Assets/TD2D/Prefabs/Enemies/Units/Shaman/Shaman.prefab
+- Assets/TD2D/Prefabs/FX/FireStormFX.prefab
+- Assets/TD2D/Prefabs/Towers/Level 3/Ballista/BallistaL3.prefab
+- Assets/TD2D/Prefabs/Towers/Level 2/Magic/MagicL2.prefab
+- Assets/TD2D/Prefabs/Towers/DefendPoint.prefab
+- Assets/TD2D/Prefabs/Defenders/Spearman/Animation/AttackRanged.anim
+- Assets/TD2D/Prefabs/FX/Materials/Smoke2.mat
+- Assets/TD2D/Prefabs/LevelDescriptions/Level3.prefab
+- Assets/TD2D/Prefabs/FX/ExplosionFX.prefab
+Dependencies:
+- C:/Users/tft/Desktop/POC_WORK/CGame/AssetBundles/Android/sprites
+- C:/Users/tft/Desktop/POC_WORK/CGame/AssetBundles/Android/fonts
+- C:/Users/tft/Desktop/POC_WORK/CGame/AssetBundles/Android/newbuild
+- C:/Users/tft/Desktop/POC_WORK/CGame/AssetBundles/Android/menuprefabs
+- C:/Users/tft/Desktop/POC_WORK/CGame/AssetBundles/Android/actioniconprefabs
+- C:/Users/tft/Desktop/POC_WORK/CGame/AssetBundles/Android/leveliconsprefabs
